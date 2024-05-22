@@ -18,5 +18,5 @@
     "gh-pages": "^6.1.1",
     "vite": "^5.2.0"
   },
-  "homepage": "https://{ваш_пользователь}.github.io/{название_репозитория}",
+  "homepage": "https://Fathulla.github.io/rick-and-morty-vue"
 }
