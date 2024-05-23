@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+# Vue 3 + Vite Pet Project 
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a simple SAP built with Vue 3, Vite and using Axios for fetching data from rick and morty api.
 
-## Recommended IDE Setup
+## Functionality
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+1) Search
+2) Filter
+3) Pagination
+4) Sort
+
+## Deploy link: [Rick and Morty](https://rick-and-morty-vue-alpha.vercel.app/)
